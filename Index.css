@@ -5,3 +5,9 @@ a {
 	color: #F39F5A;
 	font-size: x-large;
 } 
+.nav {
+	flex-direction: row;
+}
+.nav:a{
+
+}
